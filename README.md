@@ -1,1 +1,1 @@
-vvb# Titanic-Survival-Insights
+Helloo there this side Basit Farooqui a 17 year old intermediate dropout guy from India there is an analysis of titanic survival men vs women please don't judge it's my first tech project# Titanic-Survival-Insights
